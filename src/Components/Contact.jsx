@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 
 // Contenedor principal de la llamada a la acción

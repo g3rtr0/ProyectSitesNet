@@ -1,5 +1,3 @@
-import Smith from "../assets/clients/smith.png";
-import Messi from "../assets/clients/messi.png";
 import { Carousel } from "react-bootstrap";
 import styled from "styled-components";
 

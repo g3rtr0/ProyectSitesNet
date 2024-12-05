@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import styled from "styled-components";
 import ImagenUrl from "../assets/logo.png"; // Asegúrate de tener tu logo aquí
 
